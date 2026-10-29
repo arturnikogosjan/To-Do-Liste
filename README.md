@@ -1,24 +1,27 @@
-# To-Do-Liste
+# To-Do-Liste – Webentwicklungsprojekt
 
-## Beschreibung
-Dies ist eine einfache To-Do-Liste, mit der man Aufgaben hinzufügen und als erledigt markieren kann.
+## Projektbeschreibung
+Eine einfache Webanwendung zur Verwaltung von Aufgaben. Nutzer können neue Aufgaben hinzufügen und diese als erledigt markieren.
 
 ## Funktionen
 - Aufgaben hinzufügen
 - Aufgaben als erledigt markieren
-- Aufgaben übersichtlich verwalten
+- Übersichtliche Darstellung der Aufgaben
 
 ## Live-Demo
-Hier kannst du die Webseite direkt testen:
+Die Webanwendung kann direkt im Browser getestet werden:
 
-👉 [**To-Do-Liste ausprobieren**](https://todolistearturnikogosjan.netlify.app/)
+👉 [**To-Do-Liste öffnen**](https://todolistearturnikogosjan.netlify.app/)
 
-## Tutorial
-Dieses Projekt wurde mithilfe eines YouTube-Tutorials umgesetzt.
+## Umsetzung und Lernprozess
+Dieses Projekt habe ich anhand eines YouTube-Tutorials nachgebaut, um erste praktische Erfahrungen in der Webentwicklung zu sammeln und die Grundlagen von HTML, CSS und JavaScript besser kennenzulernen.
 
-📺 [YouTube-Tutorial ansehen](https://www.youtube.com/watch?v=G0jO8kUrg-I)
+**Tutorial:** [YouTube – Originalanleitung ansehen](https://www.youtube.com/watch?v=G0jO8kUrg-I)
 
 ## Verwendete Technologien
-- HTML
-- CSS
-- JavaScript
+- **HTML** – Struktur der Webseite
+- **CSS** – Gestaltung und Layout
+- **JavaScript** – Interaktivität und Funktionen
+
+## Ziel des Projekts
+Mit diesem Projekt möchte ich meine ersten praktischen Kenntnisse in der Webentwicklung zeigen und meine Fähigkeiten durch weitere eigene Projekte ausbauen.
