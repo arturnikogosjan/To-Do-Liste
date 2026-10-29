@@ -24,4 +24,4 @@ Dieses Projekt habe ich anhand eines YouTube-Tutorials nachgebaut, um erste prak
 - **JavaScript** – Interaktivität und Funktionen
 
 ## Ziel des Projekts
-Mit diesem Projekt möchte ich meine ersten praktischen Kenntnisse in der Webentwicklung zeigen und meine Fähigkeiten durch weitere eigene Projekte ausbauen.
+Mit diesem Projekt möchte ich meine ersten praktischen Kenntnisse in der Webentwicklung zeigen.
